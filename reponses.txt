@@ -87,6 +87,8 @@ git push -f origin develop
 8)
 git add reponses.txt
 git commit -m "Ajout du fichier de réponses"
+
+9)
 git push
 
 
